@@ -114,6 +114,31 @@ h2{
     width: 1200px;
   }
 }
+/*
+nav {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+}
+
+/* Estilos del video */
+/*
+video {
+  width: 100%;
+  height: auto;
+  margin: 20px 0;
+  border: 2px solid #333;
+}
+*/
 
 .container-nav {
   display: flex;
@@ -228,6 +253,13 @@ main{
   flex-wrap: wrap;  
 }
 
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+/*
+
 footer{
   display:flex;       
   max-width: 1000px;       
@@ -235,7 +267,8 @@ footer{
   justify-content: space-around;       
   flex-wrap: wrap;   
 
-/*
+
+
 
   max-width: 200px
 
